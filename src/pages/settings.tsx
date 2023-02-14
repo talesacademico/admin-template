@@ -1,10 +1,10 @@
 import { Layout } from "@/components/template";
 
 
-export default function Home() {
+export default function Settings() {
   return (
     <Layout
-      title="Página Inicial"
+      title="Ajustes"
       subtitle="ok">
       <p>conteudo</p>
     </Layout>
